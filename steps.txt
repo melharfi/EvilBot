@@ -1,0 +1,6 @@
+1-install genymotion + (VirtualBox if it's not already installed)
+2-create device with android version like 4.4 or whatever and give a name "device1"
+3-lunch the device
+4-app store is note included by default, click on "Open Gapps" top right corner
+5-create database with name android, user root and blank password
+6-execute sql file android
